@@ -1,1 +1,1 @@
-1.0|
+1.0|https://github.com/UMFDev/UMFTesting/raw/master/UMFTestMod_v0.45.zip
